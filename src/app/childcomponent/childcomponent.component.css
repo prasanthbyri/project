@@ -1,0 +1,27 @@
+.child{
+   width: 100%;
+    height: 30%;
+    background-color:blueviolet
+    ; 
+    padding: 20px;
+    margin-left: 100px;
+    margin-top: 50px;
+    
+}
+
+ .labels{
+    
+    margin: 50px;
+ }
+ .para{
+     margin: left;
+     margin:10px;
+ }
+ .C{
+     color:orchid;
+     font-size:20px;
+ }
+ .inp{
+     color:red;
+    font-size:15px;
+ }

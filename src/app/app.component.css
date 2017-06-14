@@ -1,0 +1,23 @@
+.parent{
+    width: 100%;
+    height: 70%;
+    background-color:burlywood;;
+}
+ .labels{
+    
+    margin: 50px;
+ }
+  .para{
+     margin: left;
+     margin:10px;
+    
+ }
+ 
+ .P{
+    color: azure;
+    font-size:20px;
+ }
+ .inp{
+     color:plum;
+     font-size:15px;
+ }
